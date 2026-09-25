@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "vscjava.vscode-java-pack",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-mysql",
+    "msjsdiag.vscode-react-native"
+  ]
+}
